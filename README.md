@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá! Eu sou Rodrigo Alef
 
-<!--
-**RodrigoTalin/RodrigoTalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando na faculdade COTEMIG, e as linguagens que estou aprendendo é C#, HTML e CSS e SQL.
+- 📫 Contate-me no email: rodrigo-lo@hotmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+  <div> 
+    <a href= "https://github.com/RodrigoTalin">
+    <img heigh = "180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoTalin&show_icons=true&theme=dark">
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+  <div>
+    <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
