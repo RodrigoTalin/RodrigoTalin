@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rodrigo Alef
 
-- 🌱 Estudando na faculdade COTEMIG, e as linguagens que estou aprendendo é C#, HTML e CSS e SQL.
+- 🌱 Estudando Analise e desenvolvimento de sistemas na faculdade COTEMIG, e as linguagens que estou aprendendo é C#, HTML e CSS e SQL.
 - 📫 Contate-me no email: rodrigo-lo@hotmail.com
 - 😄 Pronouns: ele/dele
 
