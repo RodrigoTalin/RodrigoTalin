@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rodrigo Talin
 
-- 🌱 Estudando Analise e desenvolvimento de sistemas na faculdade COTEMIG, e as linguagens que estou aprendendo é HTML são CSS, Python, C# e SQL.
+- 🌱 Estudando Analise e desenvolvimento de sistemas na faculdade COTEMIG, e as linguagens que estou aprendendo são Python, C# e SQL.
 - 📫 Contate-me no email: rodrigo-lo@hotmail.com
 
   <div> 
